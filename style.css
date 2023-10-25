@@ -90,7 +90,8 @@ button {
 .squares {
     display: flex;
     padding: 50px 200px 50px 200px;
-    gap:15px
+    gap:15px;
+    justify-content: center;
 }
 
 .cuadro {
@@ -115,6 +116,22 @@ button {
     margin-left: 56px
 }
 
+.quotes {
+    background-color: #E5E7EB;
+    padding: 100px 200px 100px 200px;
+    max-width: 100%
+}
+
+.quotes p {
+    font-size: 36px;
+    font-style: light italic;
+    color: #1f2937;
+    text-align: center;
+}
+
+h1 {
+    text-align: end;
+}
 
 
 
