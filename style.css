@@ -72,8 +72,48 @@ button {
     padding: 12px;
     background-color: #3882f6;
     color: #E5E7EB;
+    border: none;
+    border-radius: 8px;
+    font-weight: bold;
+    padding-left: 30px;
+    padding-right: 30px
 }
 
+.cabeza {
+    text-align: center;
+    font-size: 36px;
+    font-weight: bold;
+    color: #1f2937;
+    padding: 40px
+}
+
+.squares {
+    display: flex;
+    padding: 50px 200px 50px 200px;
+    gap:15px
+}
+
+.cuadro {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.algo {   
+    width: 250px;
+    height: 250px;
+    border-radius: 15px;
+    border-color: blue;
+    border-width: 3px;
+    border-style: solid;
+    margin-bottom: 15px
+}
+
+.text {
+    text-align: center;
+    margin-right: 56px;
+    margin-left: 56px
+}
 
 
 
