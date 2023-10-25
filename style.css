@@ -129,9 +129,52 @@ button {
     text-align: center;
 }
 
-h1 {
+.quotes h1 {
     text-align: end;
 }
 
+.calltoaction {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #3882f6;
+    flex: 1;
+    border-radius: 10px;
+    height: 250px;
+
+}
+
+.cta {
+    display: flex;
+    padding: 200px;    
+ }
+
+.boton button {
+    border-style: solid;
+    border-color: white;
+    border-radius: 10px;
+    border-width: 3px;
+    padding: 0px 60px 0px 60px
+ }
+
+ .itstime h1 {
+    color: white
+ }
+
+ .itstime p {
+    font-size: 20px;
+ }
+
+ button p {
+    font-size: 24px
+ }
+
+ .footer {
+    display: flex;
+    background-color: #1f2937;
+    justify-content: center;
+    align-items: center;
+    padding: 50px
+ }
 
 
