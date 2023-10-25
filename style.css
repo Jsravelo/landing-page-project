@@ -147,7 +147,8 @@ button {
 .cta {
     display: flex;
     padding: 200px;    
- }
+ 
+}
 
 .boton button {
     border-style: solid;
@@ -155,26 +156,26 @@ button {
     border-radius: 10px;
     border-width: 3px;
     padding: 0px 60px 0px 60px
- }
+}
 
- .itstime h1 {
+.itstime h1 {
     color: white
- }
+}
 
- .itstime p {
+.itstime p {
     font-size: 20px;
- }
+}
 
- button p {
+button p {
     font-size: 24px
- }
+}
 
- .footer {
+.footer {
     display: flex;
     background-color: #1f2937;
     justify-content: center;
     align-items: center;
     padding: 50px
- }
+}
 
 
